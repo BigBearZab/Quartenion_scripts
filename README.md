@@ -6,3 +6,5 @@ Designed for use to assess and rotate crystals within finite element analysis mo
 The scripts would then parse in crystalography data from TEM and allow for analysis of distribution. 
 
 Alternately this could also be used with a random generator to create random crystal distributions for use with FEA analysis.
+
+These scripts were used in Abacus' internal python compiler
